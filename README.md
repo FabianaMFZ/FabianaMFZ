@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Fabiana</h1>
 
-- 🌱 I’m currently learning **Data analytics**
+- 🌱 I’ve just got a diploma in **Data analytics**
 - ⚡ Fun fact **I have an academic background in Language Studies**
 
 </p>
